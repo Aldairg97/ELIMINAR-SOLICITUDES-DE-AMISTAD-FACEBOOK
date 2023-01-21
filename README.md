@@ -12,7 +12,8 @@ Abrimos sesión en Facebook y luego visitamos la parte para móviles, te darás 
 
 # 2 - ABRIMOS EL PANEL 
 AQUI DAMOS CLICK DERECHO Y LE DAMOS EN INSPECCIOANR ASI COMO SE MUESTRA LA IMAGEN
-![image](https://user-images.githubusercontent.com/30374898/213877880-303d2eee-877d-43c5-8612-7b7528d5f420.png)
+
+![PARTE 2](https://user-images.githubusercontent.com/30374898/213878166-9777b763-7e70-4f89-aa90-58aab47166b6.jpg)
 
 
 LUEGO LE VAMOS A DAR EN CONSOLE Y PEGAMOS EL CODIGO AQUI, YO YA TENGO PEGADO EL CODIGO, y le daremos enter
