@@ -27,3 +27,5 @@ javascript:var inputs = document.getElementsByClassName('_56bs _56bt'); for(var 
 inputs[i].click();
 }
 ```
+
+# 4 - AQUI PUEDES VER EL VIDEO DE COMO HACERLO
