@@ -12,7 +12,7 @@ Abrimos sesión en Facebook y luego visitamos la parte para móviles, te darás 
 
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
+javascript:var inputs = document.getElementsByClassName('_56bs _56bt'); for(var i=0; i<inputs.length;i++) {
+inputs[i].click();
 }
 ```
