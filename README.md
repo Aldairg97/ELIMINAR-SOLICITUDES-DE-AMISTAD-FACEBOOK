@@ -7,3 +7,12 @@ Esta es una pequeña gran ayuda, de como hacer para eliminar las solicitudes de 
 # ABRIR FACEBBOOK MOVIL
 Abrimos sesión en Facebook y luego visitamos la parte para móviles, te darás cuenta porque tiene una m delante de la url, si no visita este link: https://m.facebook.com/friends/center/requests/outgoing/#friends_center_main
 ![EFECTO](https://user-images.githubusercontent.com/30374898/213877334-f77a88db-cbeb-4aa5-9ffc-fb4163ea208d.jpg)
+
+
+
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
